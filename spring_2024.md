@@ -1,9 +1,9 @@
-# CSE 480 Database Systems - Spring 2024
+# CSE 480 Database Systems - Summer 2024
 
 ## Table of Contents
 1. [General Information](#general-information)
 2. [Schedule](#schedule)
-3. [Piazza Forum](https://piazza.com/msu/spring2024/cse480/home)
+3. [Piazza Forum](https://piazza.com/msu/ssummer2024/cse480)
 4. [Classroom Platform Access](#classroom-platform-access)
 5. [Syllabus](#syllabus)
 6. [Helpful Links](#helpful-links)
@@ -18,7 +18,7 @@ transaction processing and recovery techniques. Object-oriented and distributed 
 
 **Format**: This is a fully online course: course materials (videos, slides, links) are released in 
 [D2L](https://d2l.msu.edu/) according to the [schedule](#schedule), 
-discussions are in [Piazza](https://www.piazza.com/msu/spring2024/cse480), 
+discussions are in [Piazza](https://www.piazza.com/msu/summer2024/cse480), 
 helprooms (QA sessions with teaching assistants/TAs) are in Zoom (see hours below). 
 All assignments will be done in the Codio platform [access in D2L]. To use Codio, you will be paying 
 a registration fee of $48. 
@@ -26,17 +26,17 @@ a registration fee of $48.
 ### Instructors and Office Hours
 * Instructor: Dr. Jiayu Zhou
 * TAs: Yuguang, Siqi, Yingqian, and Ali
-* Helproom Hours on Zoom (https://msu.zoom.us/j/92991155131):
+* Helproom Hours on Zoom (https://msu.zoom.us/j/92983935260):
   When you join the Zoom help room, you will be placed in a private breakout room
   and helped in the order you arrived. If there are many students it may take some 
   time before it is your turn (especially on days assignments are due). Please 
   consider posing your question on Piazza if able.
-  - Mon: 14:30-16:30 Yingqian
-  - Tue: 12:30-14:30 Siqi
-  - Wed: 14:30-16:30 Yingqian
-  - Thu: 12:30-14:30 Siqi; 15:00 - 17:00 Ali
-  - Fri: 8:30-10:30 Yuguang; 15:00 - 17:00 Ali
-  - Sat: 8:30-10:30 Yuguang
+  - Mon: 
+  - Tue: 
+  - Wed: 
+  - Thu: 
+  - Fri: 
+  - Sat: 
 * Helproom Links and Hours: check D2L. 
 
 **Note**: **ALL** written communication should be directed though Piazza. 
