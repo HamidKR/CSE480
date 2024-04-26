@@ -49,8 +49,8 @@ Course materials are available in [D2L](https://d2l.msu.edu/) under `Content`. E
 
 | Week, Date | Topics |  Homework (due 10pm Sat) |
 | ----       | ------- |  ----- | 
-| Week 1 | Course Overview, Schemas<br />  and File Formats (HW#1)<br /> Basic SQL (Create, Insert, Select) (HW#2, HW#3) | HW#0 due Sat. (01-13).<br /> _HW#0 not worth any points._<br /> HW#1 released (01-08)|
-| Week 2 | Filters, Constraints and Joins (HW#3, HW#4) <br /> Update, Delete, Union, Dates and Times, <br /> Foreign Keys, and Checks (HW#4)<br /> Triggers, Views, Indices, Stored Procedures, <br />CASE, Functions, Aggregates, Collations, <br />Adapters and Converters (HW#5) | HW#1 due Sat. (01-20).<br /> HW#2 released (01-15). |
+| Week 1 | Course Overview, Schemas<br />  and File Formats (HW#1)<br /> Basic SQL (Create, Insert, Select) (HW#2, HW#3) | ?HW#0 due Sat. (01-13).<br /> ?_HW#0 not worth any points._<br /> ?HW#1 released (01-08)|
+| Week 2 | Filters, Constraints and Joins (HW#3, HW#4) <br /> Update, Delete, Union, Dates and Times, <br /> Foreign Keys, and Checks (HW#4)<br /> Triggers, Views, Indices, Stored Procedures, <br />CASE, Functions, Aggregates, Collations, <br />Adapters and Converters (HW#5) | ?HW#1 due Sat. (01-20).<br /> ?HW#2 released (01-15). |
 | Week 3 | Transations and Schedules (HW#6) <br /> Locks and Rollbacks (HW#7) | HW#2 due Sat. (01-27).<br /> HW#3 released (01-22) | 
 | Week 4 | ???Update, Delete, Union, Dates and Times, <br /> Foreign Keys, and Checks (HW#4) | HW#3 due Sat. (02-03).<br /> HW#4 released (01-29) | 
 | Week 5) | ??Triggers, Views, Indices, Stored Procedures, <br />CASE, Functions, Aggregates, Collations, <br />Adapters and Converters (HW#5) | HW#4 due Sat. (02-10).<br /> HW#5 released (02-05) | 
