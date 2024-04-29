@@ -35,8 +35,7 @@ a registration fee of $48.
   - Tue: 
   - Wed: 
   - Thu: 
-  - Fri: 
-  - Sat: 
+  - Fri: 12:00-14:00, either with Dr. Liu or Dr. Karimian
 * Helproom Links and Hours: check D2L. 
 
 **Note**: **ALL** written communication should be directed though Piazza. 
