@@ -52,7 +52,7 @@ Course materials are available in [D2L](https://d2l.msu.edu/) under `Content`. E
 | Week 2 | Filters, Constraints and Joins (HW#3, HW#4). <br /> Update, Delete, Union, Dates and Times, <br /> Foreign Keys, and Checks (HW#4). <br /> Triggers, Views, Indices, Stored Procedures, <br />CASE, Functions, Aggregates, Collations, <br />Adapters and Converters (HW#5). | HW#2 due Sat. (01-27).<br /> HW#3 released (01-22). <br /> HW#3 due Sat. (02-03).<br /> HW#4 released (01-29). <br /> HW#4 due Sat. (02-10).<br /> HW#5 released (02-05). |
 | Week 3 | Transations and Schedules (HW#6). <br /> Locks and Rollbacks (HW#7). | HW#5 due Sat. (02-17).<br /> HW#6 released (02-12). <br /> HW#6 due Sat. (02-24).<br /> HW#7 released (02-19). | 
 | Week 4 | Optimistic Scheduling (HW#8). <br /> Entity-Relationship Diagrams (HW#9). | HW#7 due Sat. (03-09). <br /> HW#8 released (03-04).<br /> HW#8 due Sat. (03-16). <br /> HW#9 released (03-11) | 
-| Week 5) | Normal Forms (To Appear).  <br /> Exam | HW#9 due Sat. (03-23). | 
+| Week 5) | Normal Forms (To Appear).  <br /> $${\color{red}Exam}$$ | HW#9 due Sat. (03-23). | 
 | Week 6 | ??Transations and Schedules (HW#6) | HW#5 due Sat. (02-17).<br /> HW#6 released (02-12) | 
 | Week 7 | ??Locks and Rollbacks (HW#7) | HW#6 due Sat. (02-24).<br /> HW#7 released (02-19) |
 <!-- | 17 (Apr 29) | Finals Week. No Content | HW#13 due Sat. (05-05) |  -->
