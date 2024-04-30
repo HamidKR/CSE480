@@ -53,9 +53,9 @@ Course materials are available in [D2L](https://d2l.msu.edu/) under `Content`. E
 | Week 3 | Transations and Schedules (HW#6). <br /> Locks and Rollbacks (HW#7). | HW#5 due Sat. (02-17).<br /> HW#6 released (02-12). <br /> HW#6 due Sat. (02-24).<br /> HW#7 released (02-19). | 
 | Week 4 | Optimistic Scheduling (HW#8). <br /> Entity-Relationship Diagrams (HW#9). | HW#7 due Sat. (03-09). <br /> HW#8 released (03-04).<br /> HW#8 due Sat. (03-16). <br /> HW#9 released (03-11) | 
 | Week 5) | Normal Forms (To Appear).  <br /> $${\color{red}Exam}$$ | HW#9 due Sat. (03-23). | 
-| Week 6 | ??Transations and Schedules (HW#6) | HW#5 due Sat. (02-17).<br /> HW#6 released (02-12) | 
-| Week 7 | ??Locks and Rollbacks (HW#7) | HW#6 due Sat. (02-24).<br /> HW#7 released (02-19) |
-<!-- | 17 (Apr 29) | Finals Week. No Content | HW#13 due Sat. (05-05) |  -->
+| Week 6 | Indices, B+ Trees, Hashtables, and Bitmaps (HW#10) <br /> Distributed Databases, <br /> Distributed Transactions, and RAID (HW#11) | HW#10 released (04-01).<br /> HW#10 due Sat. (04-13). <br /> HW#11 released (04-08). | 
+| Week 7 | NOSQL Overview, MongoDB, <br /> other NoSQL Databases (HW#12). <br /> (BONUS) Big Data, Hadoop, Security, <br /> and Authorization (HW#13) | HW#11 due Sat. (04-20). <br /> HW#12 and HW#13 (BONUS) released (04-15). <br /> HW#12 and HW#13 due Sat. (04-27). <br /> $${\color{green}No Final Exam}$$  |
+
 
 ## Classroom Platform Access 
 
