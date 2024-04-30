@@ -24,16 +24,16 @@ All assignments will be done in the Codio platform [access in D2L]. To use Codio
 a registration fee of $48. 
 
 ### Instructors and Office Hours
-* Instructor: Dr. Jiayu Zhou
-* TAs: Yuguang, Siqi, Yingqian, and Ali
+* Instructor: Dr. Manni Liu and Dr. Hamid Karimian
+* TAs: Yiwen and Milad
 * Helproom Hours on Zoom (https://msu.zoom.us/j/92983935260):
   When you join the Zoom help room, you will be placed in a private breakout room
   and helped in the order you arrived. If there are many students it may take some 
   time before it is your turn (especially on days assignments are due). Please 
   consider posing your question on Piazza if able.
-  - Mon: 
+  - Mon: 11:00-1:00 Yiwen hu, huyiwen3 at msu dot edu
   - Tue: 16:00-18:00 Milad Afshari, afsharim at msu dot edu
-  - Wed: 
+  - Wed: 11:00-1:00 Yiwen hu, huyiwen3 at msu dot edu
   - Thu: 16:00-18:00 Milad Afshari, afsharim at msu dot edu
   - Fri: 12:00-14:00, either with Dr. Liu or Dr. Karimian
 * Helproom Links and Hours: check D2L. 
