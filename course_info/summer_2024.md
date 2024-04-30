@@ -32,9 +32,9 @@ a registration fee of $48.
   time before it is your turn (especially on days assignments are due). Please 
   consider posing your question on Piazza if able.
   - Mon: 
-  - Tue: 
+  - Tue: 16:00-18:00 Milad Afshari, afsharim at msu dot edu
   - Wed: 
-  - Thu: 
+  - Thu: 16:00-18:00 Milad Afshari, afsharim at msu dot edu
   - Fri: 12:00-14:00, either with Dr. Liu or Dr. Karimian
 * Helproom Links and Hours: check D2L. 
 
