@@ -123,7 +123,7 @@ There will be no final exam.
 ### Honors Option
 
 To earn an Honors experience in CSE 480, a student will be working on a customized database project. 
-To initiate the process, the student should should come up with a database project, write up a description 
+To initiate the process, the student should come up with a database project, write up a description 
 then send to the instructor for comments and approval. The description also had to include a schedule for 
 completing the project. At the end of the semester (the final week), the student needed to provide a final report and do a 
 demonstration of their project. The final report needs to include a database relationship diagram, 
