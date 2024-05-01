@@ -49,12 +49,12 @@ Course materials are available in [D2L](https://d2l.msu.edu/) under `Content`. E
 | Week, Date | Topics |  Homework (due 10pm ) |
 | ----       | ------- |  ----- | 
 | Week 1 | Course Overview <br /> Schemas  and File Formats (HW#1)<br /> Basic SQL (Create, Insert, Select) (HW#2, HW#3) | HW#0 due Wed. (05-15). <br /> HW#0 not worth any points. <br /> HW#1 released (05-13). <br /> HW#1 due Sat. (05-18).<br /> HW#2 released (05-15). |
-| Week 2 | Filters, Constraints and Joins (HW#3, HW#4). <br /> Update, Delete, Union, Dates and Times, <br /> Foreign Keys, and Checks (HW#4). <br /> Triggers, Views, Indices, Stored Procedures, <br />CASE, Functions, Aggregates, Collations, <br />Adapters and Converters (HW#5). | HW#2 due Sat. (01-27).<br /> HW#3 released (01-22). <br /> HW#3 due Sat. (02-03).<br /> HW#4 released (01-29). <br /> HW#4 due Sat. (02-10).<br /> HW#5 released (02-05). |
-| Week 3 | Transations and Schedules (HW#6). <br /> Locks and Rollbacks (HW#7). | HW#5 due Sat. (02-17).<br /> HW#6 released (02-12). <br /> HW#6 due Sat. (02-24).<br /> HW#7 released (02-19). | 
-| Week 4 | Optimistic Scheduling (HW#8). <br /> Entity-Relationship Diagrams (HW#9). | HW#7 due Sat. (03-09). <br /> HW#8 released (03-04).<br /> HW#8 due Sat. (03-16). <br /> HW#9 released (03-11) | 
-| Week 5) | Normal Forms (To Appear).  <br /> $${\color{red}Exam}$$ | HW#9 due Sat. (03-23). | 
-| Week 6 | Indices, B+ Trees, Hashtables, and Bitmaps (HW#10) <br /> Distributed Databases, <br /> Distributed Transactions, and RAID (HW#11) | HW#10 released (04-01).<br /> HW#10 due Sat. (04-13). <br /> HW#11 released (04-08). | 
-| Week 7 | NOSQL Overview, MongoDB, <br /> other NoSQL Databases (HW#12). <br /> (BONUS) Big Data, Hadoop, Security, <br /> and Authorization (HW#13) | HW#11 due Sat. (04-20). <br /> HW#12 and HW#13 (BONUS) released (04-15). <br /> HW#12 and HW#13 due Sat. (04-27). <br /> $${\color{green}No ~ Final ~ Exam}$$  |
+| Week 2 | Filters, Constraints and Joins (HW#3, HW#4). <br /> Update, Delete, Union, Dates and Times, <br /> Foreign Keys, and Checks (HW#4). <br /> Triggers, Views, Indices, Stored Procedures, <br />CASE, Functions, Aggregates, Collations, <br />Adapters and Converters (HW#5). | HW#2 due Wed. (05-22).<br /> HW#3 released (05-18). <br /> HW#3 due Sat. (05-25).<br /> HW#4 released (05-22). <br /> HW#4 due Wed. (05-29).<br /> HW#5 released (05-25). |
+| Week 3 | Transations and Schedules (HW#6). <br /> Locks and Rollbacks (HW#7). | HW#5 due Sat. (06-01).<br /> HW#6 released (05-29). <br /> HW#6 due Wed. (06-05).<br /> HW#7 released (06-01). | 
+| Week 4 | Optimistic Scheduling (HW#8). <br /> Entity-Relationship Diagrams (HW#9). | HW#7 due Sat. (06-08). <br /> HW#8 released (06-05).<br /> HW#8 due Wed. (06-12). <br /> HW#9 released (06-15) | 
+| Week 5) | Normal Forms (To Appear).  <br /> $${\color{red}Exam}$$ | HW#9 due Sat. (06-15). | 
+| Week 6 | Indices, B+ Trees, Hashtables, and Bitmaps (HW#10) <br /> Distributed Databases, <br /> Distributed Transactions, and RAID (HW#11) | HW#10 released (06-12).<br /> HW#10 due Wed. (06-19). <br /> HW#11 released (06-15). | 
+| Week 7 | NOSQL Overview, MongoDB, <br /> other NoSQL Databases (HW#12). <br /> (BONUS) Big Data, Hadoop, Security, <br /> and Authorization (HW#13) | HW#11 due Sat. (06-22). <br /> HW#12 and HW#13 (BONUS) released (06-19). <br /> HW#12 and HW#13 due Wed. (06-26). <br /> $${\color{green}No ~ Final ~ Exam}$$  |
 
 
 ## Classroom Platform Access 
