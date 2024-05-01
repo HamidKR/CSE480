@@ -108,7 +108,7 @@ There will be at least 13 weekly homeworks (currently through Codio).
 The homeworks are intended to be straightforward if you have viewed the lectures. 
 Only your top 10 homework scores will count toward your final grade; all others 
 will be dropped. The counted scores will each be worth 700 points for a total of 
-70% of your final grade. Homeworks are always due the Saturday after 
+70% of your final grade. Homeworks are always due either the Wednsday or the Saturday after 
 they are assigned at 10pm. Homework assignments **must** be submitted prior to the 
 deadline to be graded.
 
