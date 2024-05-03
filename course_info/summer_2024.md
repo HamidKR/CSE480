@@ -25,7 +25,7 @@ a registration fee of $48.
 
 ### Instructors and Office Hours
 * Instructor: Dr. Manni Liu and Dr. Hamid Karimian
-* TAs: Yiwen and Milad
+* TAs: Yiwen Hu and Milad Afshari
 * Helproom Hours on Zoom (https://msu.zoom.us/j/92983935260):
   When you join the Zoom help room, you will be placed in a private breakout room
   and helped in the order you arrived. If there are many students it may take some 
