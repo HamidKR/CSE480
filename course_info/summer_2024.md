@@ -44,7 +44,7 @@ Emails may not be responded to.
 
 ## Schedule
 
-Course materials are available in [D2L](https://d2l.msu.edu/) under `Content`. Every homework will be released on Monday along with the new lecture notes and due on Saturday at 10pm.
+Course materials are available in [D2L](https://d2l.msu.edu/) under `Content`. New lecture notes will be released early on Monday. Release dates and due dates of HWs are shown below with the release time at 12:00AM and the due time at 10:00PM.
 
 | Week, Date | Topics |  Homework (due 10pm ) |
 | ----       | ------- |  ----- | 
