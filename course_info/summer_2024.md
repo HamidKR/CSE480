@@ -122,7 +122,7 @@ There will be no final exam.
 
 ### Honors Option
 
-There are no honors options available for this course in the summer semester.
+There is no honors option available for this course in the summer semester.
 
 ### The Spartan Code of Honor Academic Pledge
 
