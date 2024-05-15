@@ -33,7 +33,7 @@ a registration fee of $48.
   consider posing your question on Piazza if able.
   - Mon: 11:00-1:00 Yiwen hu, huyiwen3 at msu dot edu
   - Tue: 16:00-18:00 Milad Afshari, afsharim at msu dot edu
-  - Wed: 11:00-1:00 Yiwen hu, huyiwen3 at msu dot edu
+  - Wed: 12:00-14:00 Yiwen hu, huyiwen3 at msu dot edu
   - Thu: 16:00-18:00 Milad Afshari, afsharim at msu dot edu
   - Fri: 12:00-14:00, either with Dr. Liu or Dr. Karimian
 * Helproom Links and Hours: check D2L. 
