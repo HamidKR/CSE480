@@ -38,6 +38,13 @@ a registration fee of $48.
   - Fri: 12:00-14:00, either with Dr. Liu or Dr. Karimian
 * Helproom Links and Hours: check D2L. 
 
+###The following information is from MSU SIS:
+* Class Begins:  05/13/2024
+* Open adds end:  05/15/2024
+* Last day to drop with refund:  05/23/2024
+* Last day to drop with no grade reported:  06/05/2024
+* Class Ends:  06/27/2024
+
 **Note**: **ALL** written communication should be directed though Piazza. 
 You can send private messages or public posts depending on your preference. 
 Emails may not be responded to.
