@@ -38,7 +38,7 @@ a registration fee of $48.
   - Fri: 12:00-14:00, either with Dr. Liu or Dr. Karimian
 * Helproom Links and Hours: check D2L. 
 
-###The following information is from MSU SIS:
+### The following information is from MSU SIS:
 * Class Begins:  05/13/2024
 * Open adds end:  05/15/2024
 * Last day to drop with refund:  05/23/2024
